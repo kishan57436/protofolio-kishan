@@ -17,4 +17,5 @@ const AnimationLottie = ({ animationPath, width }) => {
   );
 };
 
+
 export default AnimationLottie;
