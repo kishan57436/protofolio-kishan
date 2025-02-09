@@ -1,6 +1,7 @@
 // @flow strict
-import Link from "next/link";
 'use client'
+import Link from "next/link";
+
 
 
 function Navbar() {
