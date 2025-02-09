@@ -1,5 +1,6 @@
 // @flow strict
 import Link from "next/link";
+'use client'
 
 
 function Navbar() {

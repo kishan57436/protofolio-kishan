@@ -1,7 +1,10 @@
+
+'use client'
 import Image from 'next/image';
 import Link from 'next/link';
 import { FaCode, FaPlay } from 'react-icons/fa';
 import placeholder from '/public/png/placeholder.png';
+
 
 const SingleProject = ({ project }) => {
   const { name, description, tags, code, demo, image, features } = project;
