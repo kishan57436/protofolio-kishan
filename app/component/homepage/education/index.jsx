@@ -41,7 +41,9 @@ function Education() {
                src="/edu.gif"
                alt="Hero"
                width={1080}
-               height={300}>
+               height={300}
+               unoptimized >
+               
              
               </Image>
         

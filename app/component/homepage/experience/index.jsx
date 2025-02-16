@@ -34,7 +34,7 @@ function Experience() {
             <div className="w-full h-full">
               {/* <AnimationLottie animationPath={experience} /> */}
                <Image 
-                             src="/aa.GIF"
+                             src="/aa.gif"
                              alt="Hero"
                              width={1080}
                              height={300}>
