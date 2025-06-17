@@ -4,7 +4,7 @@ import { ToastContainer } from "react-toastify";
 import Footer from "./component/footer";
 import Navbar from "./component/navbar";
 import ScrollToTop from "./component/helper/scroll-to-top";
-
+impor
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
